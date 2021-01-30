@@ -1,6 +1,6 @@
 ---
-title: "Why else they are: Toái Nguyệt ký sự"
-featured_image: '/images/theme.png'
-description: "C."
+title: Tại sao chúng lại thế?
+description: Blog nghiên cứu công nghệ của Toái Nguyệt
+featured_image: /images/theme.png
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Từng bước hiện thực hóa bước đi chạm vào giấc mơ lớn nhất cuộc đời
