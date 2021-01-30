@@ -6,7 +6,7 @@ theme = "gohugo-theme-ananke"
 DefaultContentLanguage = "vi"
 SectionPagesMenu = "main"
 Paginate = 15 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "G-2CCCPR8E1S"
 enableRobotsTXT = true
 
 [languages]
