@@ -1,0 +1,45 @@
+title = "Notre-Dame de Paris"
+baseURL = "https://example.com"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+DefaultContentLanguage = "vi"
+SectionPagesMenu = "main"
+Paginate = 15 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Why else they are"
+    weight = 1
+    contentDir = "content/en"
+  [languages.vi]
+    title = "Toái Nguyệt Chương"
+    weight = 2
+    contentDir = "content/vi"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "We are together, at last."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/theme.jpg"
+  recent_posts_number = 2
