@@ -44,4 +44,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/theme.jpg"
   recent_posts_number = 5
-  commentoEnable = true
