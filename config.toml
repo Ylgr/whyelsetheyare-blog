@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+title = "Why else they are"
+baseURL = "https://whyelsetheyare.netlify.app"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -15,7 +15,7 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
   [languages.vi]
-    title = "Toái Nguyệt Chương"
+    title = "Toái Nguyệt ký sự"
     weight = 2
     contentDir = "content/vi"
 
@@ -25,16 +25,16 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/public/icons/tnc-logo.svg"
   site_logo = ""
-  description = "We are together, at last."
+  description = "The future of humanity is already determined, but your own future is determined by you."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/Ylgr"
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/ylgr238/"
   mastodon = ""
   slack = ""
   stackoverflow = ""
@@ -42,4 +42,4 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/theme.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 5

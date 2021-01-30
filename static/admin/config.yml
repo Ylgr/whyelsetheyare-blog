@@ -1,0 +1,76 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: static/images
+public_folder: /images
+collections:
+  - name: 'vi-pages'
+    label: 'Vietnam Pages'
+    folder: 'content/vi'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Omit header text', name: 'omit_header_text', widget: 'boolean', required: false }
+      - { label: 'Type', name: 'type', widget: 'select', options: ['page'], required: false }
+      - { label: 'Menu', name: 'menu', widget: 'select', options: ['main'], required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'vi-posts'
+    label: 'Vietnam Posts'
+    folder: 'content/vi/post'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image', required: false  }
+      - { label: 'Tags', name: 'tags', widget: 'list', field: {name: tag, label: Tag, widget: string}, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'vi-about'
+    label: 'Vietnam About'
+    folder: 'content/vi/about'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'en-pages'
+    label: 'English Pages'
+    folder: 'content/en'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Omit header text', name: 'omit_header_text', widget: 'boolean', required: false }
+      - { label: 'Type', name: 'type', widget: 'select', options: ['page'], required: false }
+      - { label: 'Menu', name: 'menu', widget: 'select', options: ['main'], required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'en-posts'
+    label: 'English Posts'
+    folder: 'content/en/post'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image', required: false  }
+      - { label: 'Tags', name: 'tags', widget: 'list', field: {name: tag, label: Tag, widget: string}, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+  - name: 'en-about'
+    label: 'English About'
+    folder: 'content/en/about'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
