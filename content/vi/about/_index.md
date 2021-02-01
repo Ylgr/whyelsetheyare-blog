@@ -1,9 +1,8 @@
 ---
 title: About
-description: "A few years ago, while visiting or, rather, rummaging about
-  Notre-Dame, the author of this book found, in an obscure nook of one of the
-  towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: /images/toai-nguyet-avatar.png
+description: '"Điểm kỳ dị?!" đón đầu để kiểm soát, thích nghi để tồn tại hay
+  phớt lờ rồi bị đào thải'
+featured_image: /images/header-cover.png
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
