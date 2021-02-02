@@ -38,6 +38,8 @@ enableRobotsTXT = true
   linkedin = "https://www.linkedin.com/in/ylgr238/"
   mastodon = ""
   slack = ""
+  telegram = "https://t.me/Ylgr238"
+  email = "mailto:nguyenviettu238@gmail.com"
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
