@@ -1,14 +1,11 @@
 ---
-title: Contact
-featured_image: "images/notebook.jpg"
+title: Liên hệ
+description: Nghiêm túc nha
+featured_image: /images/kiss_me_once___kingdom_hearts_3___fanart_by_danielbogni_ddhz0m5.png
 omit_header_text: true
-description: We'd love to hear from you
 type: page
 menu: main
-
 ---
+Có tin tuyệt mật? Có tâm sự? Muốn làm bạn? Đừng ngại để lại lời nhắn nha.
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/xpzondaw"  >}}
