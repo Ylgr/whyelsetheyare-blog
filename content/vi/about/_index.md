@@ -4,6 +4,6 @@ description: '"Điểm kỳ dị?!" đón đầu để kiểm soát, thích nghi
   phớt lờ rồi bị đào thải'
 featured_image: /images/header-cover.png
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/artificial-intelligence-singularity-1280x720.jpg title="Điểm kỳ dị" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Một lập trình viên trong lĩnh vực Blockchain, có niềm tin mãnh liệt vào thuyết điểm kỳ dị (singularity). Bận rộn trên con đường chuẩn bị vốn kiến thức, kinh nghiệm và tài chính để chuẩn bị cho những sự thay đổi lớn lao của thế giới này trong những thập ký tới.
