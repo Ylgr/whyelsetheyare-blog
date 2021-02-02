@@ -1,7 +1,6 @@
 ---
-title: About
-description: '"Điểm kỳ dị?!" đón đầu để kiểm soát, thích nghi để tồn tại hay
-  phớt lờ rồi bị đào thải'
+title: Về bản thân
+description: Cuộc sống vốn không chờ đợi ai
 featured_image: /images/header-cover.png
 ---
 {{< figure src="/images/artificial-intelligence-singularity-1280x720.jpg title="Điểm kỳ dị" >}}
