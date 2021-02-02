@@ -1,6 +1,5 @@
 ---
 title: Tại sao lại thế?
-description: Điểm kỳ dị, từ một trò đùa đến một chân lý
+description: Ký sự cho những giấc mơ
 featured_image: /images/theme.png
 ---
-Ký sự Blockchain
