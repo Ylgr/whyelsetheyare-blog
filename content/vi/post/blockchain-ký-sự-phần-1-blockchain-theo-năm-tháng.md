@@ -31,6 +31,8 @@ tags:
 
   Trước năm 1971 là thời kỳ tiền bản vị vàng. Khi ấy ứng với mỗi đô la sẽ có thể mang ra ngân hàng chính phủ để đổi lại một lượng vàng nhất định. Lúc đó theo thời gian, thu nhập của người lao động tăng lên và mức sống của họ cũng tăng lên là thật vì lượng vàng khai thác được và trữ trong ngân hàng chính phủ ngày 1 nhiều hơn.
 
+![Fiat](/images/paper-money-promises.jpg "Fiat")
+
   Đến năm 1971, dưới thời đại của tổng thống Richard Nixon. Ngài công bố ban hàng lại hình thức tiền tệ mới, thay thế toàn bộ hệ thống tiền bản vị vàng thành tiền pháp định nghĩa là giá trị của đồng tiền giờ đây được đảm bảo bởi uy tín của chính phủ thay vì lượng vàng trong ngân hàng quốc gia. Cũng nhờ chính sách đó, lượng tiền lưu thông cứ từ đó bứt phá tăng lên ồ ạt, tiền mất giá nhanh chóng và cuộc sống của người lao động ngày 1 khó khăn hơn (trên thực tế là vẫn sẽ tốt hơn do khoa học và công nghệ phát triển).
 
 # 2. Blockchain vào cuộc
@@ -38,6 +40,8 @@ tags:
 ## 2.1. Thế hệ đầu tiên: Khai sinh và lưu trữ
 
   Vào những năm 2008, một nhân vật ẩn danh tự xưng là Satoshi Nakamoto đã viết ra bản cáo hạch khai sinh ra một loại tiền điện tử mang tên là Bitcoin và cũng là crypto đầu tiên tồn tại. Bằng sự kết hợp giữa 3 công nghệ: mật mã học, mạng ngang hàng và lý thuyết trò chơi. Một công nghệ mới mang tên Blockchain ra đời.
+
+![Satoshi Nakamoto](/images/satoshi-nakamoto-01.png "Satoshi Nakamoto")
 
   Ý tưởng ra đời của Bitcoin là một thứ tiền tệ mà nhà nước không thể kiểm soát được, số tiền sẽ được đào dần theo thời gian nhưng ngày một khó đào hơn cho đến khi không thể đào thêm được nữa. Sự lưu động của dòng tiền được ghi chép lại trên tất cả các sổ cái trên các node p2p cùng. Công nghệ mật mã học giúp mỗi người dùng được định nghĩa một cặp key không trùng nhau để sử dụng. Lý thuyết trò chơi là nền tảng quy chuẩn hóa hoạt động trên toàn mạng lưới với thuật toán đồng thuận Bằng chứng công việc (Proof of work).
 
