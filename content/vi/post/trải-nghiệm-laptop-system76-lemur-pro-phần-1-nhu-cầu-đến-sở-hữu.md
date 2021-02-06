@@ -6,18 +6,47 @@ featured_image: https://assets.system76.com/products/lemp10/lighter-than-air.jpg
 ---
 # 1. Câu truyện trong công việc
 
-1.1. Laptop làm việc
+## 1.1. Nhu cầu sử dụng
 
-Với phần đa các công ty công nghệ thì việc được cấp macbook, máy bàn vốn không có gì xa lạ. Vấn đề chỉ nảy sinh khi người lao động đó nghĩ ra vấn đề. Một ngày kia, mình bỗng thấy nhu cầu cần laptop để xử lý thông tin là hết sức cần thiết. Do phải di chuyển nhiều, quãng thời gian startup thì không có được cấp máy tính phải dùng laptop cá nhân, 
+Với phần đa các công ty công nghệ thì việc được cấp macbook, máy bàn vốn không có gì xa lạ. Vấn đề chỉ nảy sinh khi người lao động đó nghĩ ra vấn đề. Một ngày kia, mình bỗng thấy nhu cầu cần laptop để xử lý thông tin là hết sức cần thiết. Do phải di chuyển nhiều, quãng thời gian startup thì không có được cấp máy tính phải dùng laptop cá nhân, ngoài ra có đến cả ngàn lẻ một lý do khác cần một chiếc laptop tiện lợi như đi công tác, ngồi máy bay hay đơn thuần là muốn vừa nằm vừa dùng máy.
 
+Bản thân mình cũng có một con laptop HP theo mình suất từ khi lên ĐH, đã nâng lên 16 gb ram và ssd 256 GB, tuy nhiên có chút vấn đề với ẻm.
 
+* Máy ko chuyên linux nên cài ubuntu song song gặp vấn đề thỉnh thoảng ko load được âm thanh, wifi.
+* Cạn ổ cứng do ssd 256GB phải chia tài nguyên cho cả window và laptop. Trong khi bản thân vẫn có nhu cầu chơi game.
+* Máy nặng tầm 3.5 cân, hơi còng lưng mỗi ngày 2 lần xách đi xách về trên quãng đường 1.5 km đường đi bộ.
+
+Trước tình hình đó, mình quyết định mua một laptop mới với độ ưu tiên trải nghiệm:
+
+* Ram 16gb, SSH gen3 min 256GB.
+* Nhỏ, nhẹ, pin trâu.
+* Giá trong 30tr-50tr càng rẻ càng tối ưu.
+* Ưu tiên có sẵn Linux, OSX.
+
+## 1.2. Nghiên cứu thị trường
+
+Macbook là lựa chọn không tồi, đời macbook M1 mới còn nhiều điểm nghi ngờ trong lĩnh vực dev. Lên mạng lang thang thử search laptop with linux pre-instal. Kiếm được một list máy tính trong đó khá ấn tượng với con Dell XPS 13 Developer edition có điều nó là sảng phẩm riêng của thị trường US, không thể mua ở VN phải nhờ dịch vụ của bên khác làm trung gian mới mua được với giá + 30%.
+
+*Vào thời điểm đó, ánh mắt tôi vô tình lướt qua System76.*
+
+Mình đã vào homepage của System76 để tham khảo và nhận thấy mẫu Lemur Pro là hợp với nhu cầu của bản thân nhất với các thông số nổi bật.
+
+\- Nhẹ 1.09 Kg, nhẹ hơn cả 1 con Macbook Air nhẹ nhất.
+
+\- Sở hữu option chọn hđh linux cài sẵn: ubuntu và pop_os - bản thân mình thích ubuntu hơn OSX vì dễ code sure chạy hơn, hệ sinh thái công cụ hoàn toàn free (1 số software có cả bản ubuntu và OSX mà trên ubuntu cho free, OSX trả phí).
+
+\- Pin 73Wh lại một điểm hơn Mac nữa nè.
+
+\- SSD gen4, Macbook thường giấu thông số này trên các trang mở bán. Bản thân mình đã trải nghiệm từ HDD sang SSD sata laptop đến SSD gen 4 trên con PC, mình biết độ phê của SSD gen 4 như thế nào.
+
+\- Tụ hợp tất cả những điều trên mà giá lại rẻ hơn Macbook 2020 bất kỳ ở Ram 16GB.
+
+Với bản chất của nhà giả kim, một saver, một linux user và sự khác người, Mình chọn mua ẻm về.
 
 # 2. Thông số cấu hình
 
 
 
 # 3. Hàng về rồi nè!
-
-
 
 # 4. Trải nghiệm sử dụng laptop trong những ngày đầu
