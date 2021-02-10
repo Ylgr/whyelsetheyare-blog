@@ -74,8 +74,27 @@ Trên tay chiếc hộp nhẹ tênh, mình bắt đầu mở ra và 1 thế gi�
 
 ![](/images/20210205_110959.jpg)
 
-
-
-
-
 # 3. Trải nghiệm sử dụng laptop trong những ngày đầu
+
+Từ ngữ duy nhất để diễn tả khi sử dụng laptop là từ "Tiện". Việc thiết kế nhỏ, nhẹ, pin trâu cùng màn hình 180 độ giúp mình có thể sử dụng laptop ở nhiều tư thế và vị trí khác nhau trong nhà.
+
+![Lemur Pro vs Hp Pavilion](/images/20210205_112057.jpg)
+
+## Điểm cộng:
+
+* Phần cứng chuyên dụng cho linux nên mình ko gặp bất cứ vấn đề gì như laptop window cài linux.
+* Pin trâu, đã trải nghiệm làm việc 8 tiếng ko sạc với 3 IDEA Webstorm, Skype, Telegram chạy nền xài đồng thời 3 trình duyện fire fox, google chrome và brave nhiều tab trong đó có youtube nghe nhạc. Kết quả là máy còn 24% pin vẫn dùng được hơn 2 tiếng mới hết pin.
+* Hệ điều hành Pop_os ... nhìn chung mình chưa thấy khác gì ubuntu cả.
+* Nhỏ nhẹ tiện dụng, màn hình 180 độ.
+* Bàn phím gõ sướng không khác gì Macbook.
+
+## Điểm trừ:
+
+* Bàn phím để nút PgUp và PgDn nhỏ gần nút mũi tên nên hay ấn nhầm.
+* Vỏ nhựa đèn xì, mình thích màu trắng bạc cơ.
+* Chữ System76 ở mặt máy là hình dán ko phải là Logo khắc lên như các hệ máy khác.
+* Nhiểu khi tưởng đang dùng Macbook ấn Alt+C mãi ko copy được.
+
+# Tổng kết
+
+Làm gì đã tổng kết được, còn những câu chuyện chưa nói và review lại sau 1-3 tháng sử dụng nữa chứ. Hẹn các bạn ở những bài viết tiếp theo nha.
