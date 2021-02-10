@@ -4,6 +4,15 @@ date: 2021-02-05T18:12:56.101Z
 description: Bài đánh giá ấn tượng đầu về trải nghiệm máy chuẩn linux system76
 featured_image: https://assets.system76.com/products/lemp10/lighter-than-air.jpg
 ---
+- - -
+
+title: "Trải nghiệm laptop System76 Lemur Pro - Phần 1: Nhu cầu đến sở hữu"
+date: 2021-02-05T18:12:56.101Z
+description: Bài đánh giá ấn tượng đầu về trải nghiệm máy chuẩn linux system76
+featured_image: https://assets.system76.com/products/lemp10/lighter-than-air.jpg
+
+- - -
+
 # 1. Câu truyện trong công việc
 
 ## 1.1. Nhu cầu sử dụng
@@ -43,10 +52,30 @@ Mình đã vào homepage của System76 để tham khảo và nhận thấy mẫ
 
 Với bản chất của nhà giả kim, một saver, một linux user và sự khác người, Mình chọn mua ẻm về.
 
-# 2. Thông số cấu hình
+## 1.3. Lên mạng đặt hàng
+
+Và rồi rất hồn nhiên ngây thơ, mình truy cập vào website của System76, đăng ký một tài khoản lựa chọn cấu hình, nhập địa chỉ và thẻ visa xong ấn Order.
+
+Về cấu hình, chỉ 2 thông số điều chỉnh lại chu phù hợp với nhu cầu so với mặc định. Mình chỉnh Ram lên 16GB và SSD 512GB Gen 4.
+
+Ấn Order xong thấy tin nhắn trừ tiền tài khoản và hằng ngày mình có sở thích lên website của System76 theo dõi để cập nhật tiến trình máy tính của mình.
+
+# 2. Hàng về rồi nè!
+
+Sau 4 tuần kể từ khi đặt hàng, mình đã có trên tay chiếc Laptop System76 Lemur Pro. Quãng thời gian chờ đợi để nhận được hàng là 1 câu chuyện dài và phức tạp yêu cầu 1 bài viết khác mới đăng tải đủ nên mình đi vào phần đập hộp luôn.
+
+Trên tay chiếc hộp nhẹ tênh, mình bắt đầu mở ra và 1 thế giới mới bắt đầu:
+
+![Trang trí trong hộp](/images/20210205_110634.jpg "Trang trí trong hộp")
+
+![](/images/20210205_110644.jpg)
+
+![](/images/20210205_110814.jpg)
+
+![](/images/20210205_110959.jpg)
 
 
 
-# 3. Hàng về rồi nè!
 
-# 4. Trải nghiệm sử dụng laptop trong những ngày đầu
+
+# 3. Trải nghiệm sử dụng laptop trong những ngày đầu
