@@ -1,8 +1,10 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+title: About
+description: Life without waiting for anyone
+featured_image: /images/header-cover.png
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Nguyen Viet Tu (or Ylgr for short) is born in 1997 (Z generations), currently working as Blockchain Developer (can be considered a Fullstack Developer). 
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+INTJ in MBTI test, always looking for a way to explain everything in the world. Always consider myself an "alchemist" in "The alchemist" of Paulo Coelho.
+
+Believing in Singularity and busy on the road to preparing knowledge, experience and finance to prepare for the great changes of this world in the coming decades.
