@@ -3,6 +3,7 @@ title: "Blockchain ký sự - Phần 1: Blockchain theo năm tháng"
 date: 2021-02-03T09:59:20.586Z
 description: Hiểu đúng trước khi hành động
 featured_image: /images/ebefzbywwaadrkh.jpg
+toc: true
 tags:
   - blockchain
   - tổng quan

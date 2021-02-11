@@ -1,6 +1,7 @@
 ---
 title: "Singularity: Điểm kỳ dị - Kỷ nguyên của Robot"
 date: 2021-02-11T03:46:45.313Z
+toc: true
 ---
 # 1. Học thuyết về Singularity
 

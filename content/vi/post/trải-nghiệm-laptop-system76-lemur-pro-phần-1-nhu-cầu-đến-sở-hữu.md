@@ -1,6 +1,7 @@
 ---
 title: "Trải nghiệm laptop System76 Lemur Pro - Phần 1: Nhu cầu đến sở hữu"
 date: 2021-02-05T18:12:56.101Z
+toc: true
 description: Bài đánh giá ấn tượng đầu về trải nghiệm máy chuẩn linux system76
 featured_image: https://assets.system76.com/products/lemp10/lighter-than-air.jpg
 ---

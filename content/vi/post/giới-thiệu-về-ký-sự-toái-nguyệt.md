@@ -3,6 +3,7 @@ title: Giới thiệu về Toái Nguyệt ký sự
 date: 2021-02-02T17:51:41.089Z
 description: Bài viết mở đầu
 featured_image: /images/78491682_p0.jpg
+toc: true
 tags:
   - giới thiệu
   - quan điểm
