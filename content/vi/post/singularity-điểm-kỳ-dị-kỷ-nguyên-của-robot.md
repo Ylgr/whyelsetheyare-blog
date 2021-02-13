@@ -3,6 +3,8 @@ title: "Singularity: Điểm kỳ dị - Kỷ nguyên Robot"
 date: 2021-02-11T03:46:45.313Z
 toc: true
 featured_image: /images/artificial-intelligence-singularity-1280x720.jpg
+tags:
+  - singularity
 ---
 # 1. Học thuyết về Singularity
 
