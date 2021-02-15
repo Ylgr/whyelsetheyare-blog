@@ -1,6 +1,6 @@
 ---
 title: "Blockchain ký sự phần 2: Bản chất"
-date: 2021-02-14T04:19:20.205Z
+date: 2021-02-15T04:19:20.205Z
 toc: true
 featured_image: https://builtin.com/sites/default/files/styles/medium/public/2019-01/blockchain-companies.jpg
 tags:
@@ -22,6 +22,34 @@ Thông thường, với các hệ thống cơ bản sẽ được bố trí phâ
 
 ## 1.3. Game theory protocol
 
+Lý thuyết trò chơi là một trong những chủ đề hot trong giới toán học và kinh tế học, với công nghệ nó cũng là phần không thể thiếu. Trong game theory protocol của Blockchain, những người tham gia đóng vai trò duy trình mạng lưới sẽ bằng cách này hay cách khác nhận được lợi ích từ nó. VD như trong một mạng Proof of Work, các node sẽ đóng vai trò làm miners để xác thực giao dịch và tìm ra đoạn hash khóa block, Node nào tìm ra đoạn hash khóa block sẽ nhận được một lượng coin của mạng lưới làm phần thưởng.
+
+Game theory là một chủ đề rất thú vị, chúng ta sẽ bàn luận nhiều hơn về nó.
+
 # 2. Hình thức hoạt động
 
-# 3. Phân loại
+Trong giới Blockchain, chúng ta đã có rất nhiều loại Blockchain với những cách hoạt động gần giống nhau. Nên để diễn tả chung về quy trình làm việc, mình sẽ lấy VD về ông tổ của Blockchain: Bitcoin.
+
+![](https://www.weusecoins.com/images/bitcoin-transaction-life-cycle-high-resolution.png)
+
+Trình tự ở đây sẽ là:
+
+\- Sender tạo transaction request gửi BTC cho Receiver và ký request đó bằng private key để có được raw transaction (là chuỗi ký tự hex dữ liệu).
+
+\- Sender đẩy transaction lên 1 node của mạng Blockchain, node đó sẽ đẩy thông tin transaction lên Bitcoin network.
+
+\- Transaction được xác thực để đảm bảo thông tin gửi đi là xác minh (địa chỉ gửi hợp lệ, địa chỉ nhận hợp lệ, số dư gửi đi hợp lệ, nonce hợp hệ, ...).
+
+\- Khi đã đủ số lượng node verify, transaction sẽ được đẩy vào Block.
+
+\- Block chờ đủ blocktime sẽ được miner tìm ra đoạn hash khóa block (miner nhận được phần thưởng BTC từ việc tính toán ra hash).
+
+\- Block có khóa sẽ gắn vào chain và dữ liệu từ đó sẽ bất biến và tồn tại vĩnh viễn cùng với chain. 
+
+\- Receiver nhận được BTC.
+
+# 3. Tính bảo mật, độ an toàn
+
+
+
+# 4. Phân loại
