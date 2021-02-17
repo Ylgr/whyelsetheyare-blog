@@ -54,6 +54,8 @@ Trình tự ở đây sẽ là:
 
 Mạng p2p với cơ chế hoạt động định nghĩa theo game theory chính là mấu chốt của độ tin cậy thông tin lưu trên chain. Cơ chế bảo toàn thông tin của Blockchain hoạt động theo cơ chế bảo vệ 51%, nghĩa là thông tin lưu trên Blockchain được quy định bởi 51% số node tham gia. 
 
+![](https://vnrebates.net/wp-content/uploads/2020/10/Double-spend-avatar.jpeg)
+
 Với một mạng Blockchain, khi có một đối tượng chiếm trên 51% sức mạnh của mạng lưới, kẻ đó có thể thao túng toàn bộ mạng lưới để sửa đổi thông tin có lợi cho bản thân hắn. Câu chuyện khi đó là những tình huống double spending và được diễn tả nhau sau:
 
 \- Hacker chiếm giữ và sở hữu 51% sức mạnh tính toán.
@@ -74,6 +76,8 @@ Tuy nhiên với một Blockchain, kể cả khi điều đó xảy ra, lớp ph
 
 Blockchain về bản chất hoạt động dựa theo sự đồng thuận hoạt động giữa các Node với nhau. Khi một nhóm các Node không đồng thuận với hoạt động hiện tại, hiện tượng rẽ nhánh (forking) sẽ diễn ra.
 
+![](https://www.dummies.com/wp-content/uploads/cryptocurrency-hard-fork.jpg)
+
 Quay lại câu chuyện khi một Blockchain bị tấn công 51%. lúc này 49% các Node đang hoạt động thấy có điểm bất thường quyết định thống nhất lại với nhau, dựng lên một mạng Blockchain mới mà không có sự tham gia của 51% Node kia, giữ lại phần lịch sử giao dịch còn đáng tin cậy. Vào thời điểm đó mạng lưới đó sẽ bị tách nhau ra. 
 
 Với người dùng, từ một đồng tiền giờ họ có 2 đồng tiền khác nhau và cạnh tranh nhau về mặt giá trị. Và rồi thị trường cung cầu sẽ phân bổ lại giá trị của 2 đồng tiền này, nếu Hacker tiếp tục lạm dụng sức mạnh của mình ở mạng lưới cũ, đồng tiền của hắn sẽ mất dần giá trị cho đến khi bị kỳ thị.
@@ -86,8 +90,24 @@ Blockchain có nhiều hướng phân loại, mục đích sử dụng, thế h�
 
 Ở đây chúng ta sử dụng hình thức phân loại phổ thông theo mục đích quản lý và quy mô, Blockchain sẽ phân ra thành 2 loại chính là: Private Blockchain và Public Blockchain.
 
+![](https://www.intheblack.com/-/media/intheblack/allimages/technology/2018/boxes-people-key-illustration.jpg)
+
 ## 4.1. Public blockchain
 
 Khi nhắc tới Blockchain thì điều đầu tiên mọi người thường nhắc đến là Public Blockchain, điểm hình là Bitcoin, Ethereum, Binance, ...
 
-Đặc điểm của Public Blockchain là thường có coin đi kèm để làm giá trị mạng lưới khi tham gia. Quyền lợi của những người tham gia mạng lưới là ngang nhau về tổng quan (sức mạnh tính toán trong Proof of Work, sức mạnh stake
+Đặc điểm của Public Blockchain là thường có coin đi kèm để làm giá trị mạng lưới khi tham gia. Quyền lợi của những người tham gia mạng lưới là ngang nhau về tổng quan (sức mạnh tính toán trong Proof of Work, số tiền stake trong Proof of Stake, Delegated Proof of Stake, ...).
+
+Với Public Blockchain có một luật, đó là các phẩm code (smart contract, network, ...) cần phải được open source nên mọi người đều có thể đọc, tìm bug và xác minh tính đúng đắn khi tham gia.
+
+Bất kỳ ai có nhu cầu và khả năng đều có thể tham gia Public Blockchain.
+
+## 4.2. Private blockchain
+
+Khác với Public Blockchain, Private Blockchain được xây dựng lên với mục đích kế thừa sức mạnh bảo mật và cách hoạt động theo mô hình phân tán hiệu quả từ Public Blockchain mà thêm vào đó yếu tố phân quyền và xử lý chuyên biệt phục vụ mục đích business.
+
+Gương mặt điển hình trong giới Private Blockchain ta có: Hyperledger và Corda.
+
+So với Public Blockchain, thứ tuyệt vời nhất mà Private Blockchain mang lại là sức mạng và tính linh hoạt, dễ scaling hệ thống.
+
+Private Blockchain thông thường sẽ không cho phép tất cả mọi người tham gia, mỗi đối tượng tham gia đều gắn với định danh và quyền lực theo cấu hình của hệ thống.
