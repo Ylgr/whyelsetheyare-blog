@@ -1,5 +1,5 @@
 ---
-title: "Blockchain ký sự phần 2: Bản chất"
+title: "Blockchain ký sự - Phần 2: Bản chất"
 date: 2021-02-15T04:19:20.205Z
 toc: true
 featured_image: https://builtin.com/sites/default/files/styles/medium/public/2019-01/blockchain-companies.jpg
@@ -48,8 +48,46 @@ Trình tự ở đây sẽ là:
 
 \- Receiver nhận được BTC.
 
-# 3. Tính bảo mật, độ an toàn
+# 3. Cơ chế tự vệ
 
+## 3.1. Tấn công 51%
 
+Mạng p2p với cơ chế hoạt động định nghĩa theo game theory chính là mấu chốt của độ tin cậy thông tin lưu trên chain. Cơ chế bảo toàn thông tin của Blockchain hoạt động theo cơ chế bảo vệ 51%, nghĩa là thông tin lưu trên Blockchain được quy định bởi 51% số node tham gia. 
+
+Với một mạng Blockchain, khi có một đối tượng chiếm trên 51% sức mạnh của mạng lưới, kẻ đó có thể thao túng toàn bộ mạng lưới để sửa đổi thông tin có lợi cho bản thân hắn. Câu chuyện khi đó là những tình huống double spending và được diễn tả nhau sau:
+
+\- Hacker chiếm giữ và sở hữu 51% sức mạnh tính toán.
+
+\- Hacker chuyển tiền cho A bằng transaction X.
+
+\- Transaction X được đưa vào Block Y và gắn vào chain.
+
+\- Hacker sử dụng sức mạnh 51% đảo ngược chain đến Block Y, xóa dữ liệu và tạo lại khóa cho Y, Y+1, ... đến block hiện tại.
+
+\- Dữ liệu X biến mất, Hacker có lại số tiền đã gửi.
+
+Dựa trên câu chuyện trên, khi một Blockchain phải chịu tấn công 51%, giới hạn làm việc của Hacker cũng chỉ dừng lại ở việc thực hiện việc tiêu số tiền mình có nhiều lần và độ khó của việc đó gia tăng nếu block chưa transaction spending đó trôi xa.
+
+Tuy nhiên với một Blockchain, kể cả khi điều đó xảy ra, lớp phòng thủ thứ 2 sẽ dựng lên.
+
+## 3.2. Bất đồng thuận! Fork
+
+Blockchain về bản chất hoạt động dựa theo sự đồng thuận hoạt động giữa các Node với nhau. Khi một nhóm các Node không đồng thuận với hoạt động hiện tại, hiện tượng rẽ nhánh (forking) sẽ diễn ra.
+
+Quay lại câu chuyện khi một Blockchain bị tấn công 51%. lúc này 49% các Node đang hoạt động thấy có điểm bất thường quyết định thống nhất lại với nhau, dựng lên một mạng Blockchain mới mà không có sự tham gia của 51% Node kia, giữ lại phần lịch sử giao dịch còn đáng tin cậy. Vào thời điểm đó mạng lưới đó sẽ bị tách nhau ra. 
+
+Với người dùng, từ một đồng tiền giờ họ có 2 đồng tiền khác nhau và cạnh tranh nhau về mặt giá trị. Và rồi thị trường cung cầu sẽ phân bổ lại giá trị của 2 đồng tiền này, nếu Hacker tiếp tục lạm dụng sức mạnh của mình ở mạng lưới cũ, đồng tiền của hắn sẽ mất dần giá trị cho đến khi bị kỳ thị.
+
+Hiện tượng Fork cũng diễn ra nhiều trong giới Crypto với nhiều lý do. Tiêu biểu nhất chúng ta có vụ BCH fork ra từ BTC để trở thành bản nâng cấp về sức mạng của BTC.
 
 # 4. Phân loại
+
+Blockchain có nhiều hướng phân loại, mục đích sử dụng, thế hệ, ...
+
+Ở đây chúng ta sử dụng hình thức phân loại phổ thông theo mục đích quản lý và quy mô, Blockchain sẽ phân ra thành 2 loại chính là: Private Blockchain và Public Blockchain.
+
+## 4.1. Public blockchain
+
+Khi nhắc tới Blockchain thì điều đầu tiên mọi người thường nhắc đến là Public Blockchain, điểm hình là Bitcoin, Ethereum, Binance, ...
+
+Đặc điểm của Public Blockchain là thường có coin đi kèm để làm giá trị mạng lưới khi tham gia. Quyền lợi của những người tham gia mạng lưới là ngang nhau về tổng quan (sức mạnh tính toán trong Proof of Work, sức mạnh stake
