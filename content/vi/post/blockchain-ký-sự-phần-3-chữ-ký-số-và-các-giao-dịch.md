@@ -7,8 +7,10 @@ tags:
   - blockchain
   - crytocurrency
 ---
-1. Transaction là gì?
+# 1. Transaction là gì?
 
-2. Giải thích hoạt động
+Transaction (giao dịch) là danh từ đề cập đến sự kiện điều kiện để biến đổi số dư của một tài khoản. Trong Blockchain cũng không ngoại lệ, nó là bản ghi chép dữ liệu chuyển tiền, nhận tiền hay việc kích hoạt làm thay đổi trạng thái của smart contract nào đó (việc này thông thường sẽ tốn phí gas với các mạng như ethereum hay bandwidth với các mạng như EOS).
 
-3. Chữ ký số
+# 2. Giải thích hoạt động
+
+# 3. Chữ ký số
