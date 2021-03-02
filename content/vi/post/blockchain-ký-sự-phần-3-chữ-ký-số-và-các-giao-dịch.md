@@ -15,7 +15,9 @@ Transaction trên Blockchain được chia làm 3 loại khác nhau để giải
 
 # 2. Giải thích hoạt động của transaction
 
-## 2.1. UTXO
+## 2.1. Unspent transaction output (UTXO)
+
+![](https://blog.lopp.net/content/images/downloaded_images/The-Challenges-of-Optimizing-Unspent-Output-Selection/1-5uICL2T5PLZ4arzHXlA6sQ.png)
 
 Coin điển hình BTC, LTC, BCH, QTUM.
 
@@ -31,6 +33,8 @@ Bằng cách sử dụng UTXO, user có thể revert lại transaction vừa th�
 
 ## 2.2. Nonce
 
+![](https://i0.wp.com/cryptodose.co/wp-content/uploads/2020/08/HNN-final-01-01-1.jpg)
+
 Thay vì lưu số dư vào các UTXO, những loại crypto phổ biến khác như ETH, EOS, TROX, ... đã chọn cách xử lý số dư của user trực tiếp trên tài khoản. Khi đó họ cần xử dụng một con số "nonce" để đánh dấu và định danh transaction. Mỗi transaction sẽ có một "nonce" khác nhau và nonce sau yêu cầu cao hơn nonce trước. Bằng cách này transaction sẽ không phải chịu khoản byte fee như kiến trúc UTXO.
 
 Khi sử dụng nonce, ta hoàn toàn có thể revert transaction (pending) bằng cách thực hiện một transaction tương tự cùng số nonce với transaction cũ nhưng thêm fee bỏ ra cho transacction, cách hoạt động tương tự với UTXO.
@@ -43,6 +47,16 @@ Omni về bản chất không phải là một blockchain tự vận hành. Sự
 
 Nói cách khác Omni sẽ không trực tiếp xử lý giao dịch mà nhờ BTC xác nhận giao dịch và ghi chép lại biến đổi vào số dư người dùng.
 
+# 3. Chữ ký số (digital signature)
 
+![](https://www.smartdatacollective.com/wp-content/uploads/2019/05/digital-signature-data.jpg)
 
-# 3. Chữ ký số
+Hãy bắt đầu từ thành phần của transaction. Một transaction sẽ có các thông tin: người gửi, người nhận, số tiền, ... Hay nói tóm lại, transaction là một đối tượng (object). Vậy làm sao để chứng minh được transaction được gửi bởi chính chủ câu trả lời đó chính là chữ ký số.
+
+Khi nói đến chữ ký số, chúng ta có thể hiểu cách hoạt động của thứ này đại loại như cách mà Json Web Token (JWT) hoạt động.
+
+Một object transaction để đẩy lên network yêu cầu trước hết là phải bị biến đổi thành signed transaction bằng private key. Việc sign này sẽ được thực hiện ***hoàn toàn trên ví***. Nói cách khác, nếu bạn dùng một ví client: android, desktop hay cold wallet thì hãy đảm bảo là việc ký thông tin giao dịch có thể hoạt động mà không cần đến internet. Từ đó đảm bảo nguy cơ lộ private key.
+
+Khi đã có signed transaction thì transaction đó được phép đẩy lên blockchain để xác thực và ghi nhận.
+
+Signed transaction cũng như jwt token, bạn không cần private key cũng có thể decode dữ liệu trong đó để đọc được và thêm vào đó, network cũng nhận diện được chữ ký này chính xác do private key của public key đề cập trong transaction thực hiện.
