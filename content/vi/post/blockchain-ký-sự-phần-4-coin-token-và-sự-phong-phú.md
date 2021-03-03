@@ -9,10 +9,20 @@ tags:
 ---
 1. Coin
 
-
+Coin là thuật ngữ chỉ chung
 
 2. Token
 
-
+Trong khi
 
 3. Sự đa dạng trong hệ sinh thái
+
+3.1. Thế hệ đầu
+
+3.2. Dạng Ethereum
+
+3.3. Dạng Tendermint
+
+3.4. Dạng Tangle
+
+3.5. Dạng khác
