@@ -9,7 +9,7 @@ tags:
 ---
 1. Coin
 
-Coin là thuật ngữ chỉ chung
+Coin là thuật ngữ chỉ chung của nhóm Cryptocurrency sở hữu chain riêng của mình (VD: BTC, ETH, LTC). Là đồng tiền chính phân loại.
 
 2. Token
 
