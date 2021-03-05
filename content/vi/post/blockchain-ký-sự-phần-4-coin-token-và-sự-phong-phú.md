@@ -1,6 +1,6 @@
 ---
 title: "Blockchain ký sự - Phần 4: Coin, token và sự phong phú"
-date: 2021-03-03T05:26:43.513Z
+date: 2021-03-05T05:26:43.513Z
 toc: true
 featured_image: https://tradevn.net/wp-content/uploads/2019/05/Trading-cryptocurrency.jpg
 tags:
@@ -9,11 +9,24 @@ tags:
 ---
 1. Coin
 
-Coin là thuật ngữ chỉ chung của nhóm Cryptocurrency sở hữu chain riêng của mình (VD: BTC, ETH, LTC). Là đồng tiền chính phân loại.
+Coin là thuật ngữ chỉ chung của nhóm Cryptocurrency sở hữu chain riêng của mình (VD: BTC, ETH, LTC). Coin trong cryptocurrency đóng vai trò chính trong việc khuyến khích người dùng tham gia network, sử dụng làm phí giao dịch hay lưu trữ giá trị tài sản.
+
+Do sự đa dạng của giới Crypto, coin cũng có nhiều dạng hoạt động khác nhau trong nghiệp vụ tương ứng với chain của riêng nó:
+
+- Trong Bitcoin chain, BTC đóng vai trò làm phí giao dịch, phần thưởng từ mining. Là vua của thị trường Crypto nên chắc cũng không cần bàn bạc nhiều về giá trị của BTC trên thị trường. Mọi người thường có định nghĩa BTC là "vàng" kỹ thuật số.
+
+- Với Ethereum chain, ETH cũng giữ vai trò làm phí giao dịch. Vì tính chất hỗ trợ Smart Contract nên ETH cũng đóng vai trò làm phí cho các hoạt động này như deploy smart contract, triggger function thay đổi state của smart contract và staking. Mạng ETH đóng vai trò quan trọng mở lên kỷ nguyên của token và các hoạt động gọi vốn của nhiều cryptocurrency khác. Trong giới crypto, ETH được ví như "dầu" kỹ thuật số.
+
+- EOS chain, theo một khía cạnh khác hướng tới chủ chương không phí giao dịch. EOS trong network đóng vai trò làm phí khởi tạo account, chạy smart contract và staking. Trong mô hình này staking đóng vai trò quan trọng nhất vì nó sẽ giúp user sở hữu bandwitch sử dụng làm giới hạn giao dịch của mỗi user hay Ram và CPU hỗ trợ hoạt động cũng như vận hành của Smart Contract. Từng tự xưng là Ethereum killer, chúng ta vẫn cần thời gian để EOS chứng minh bản thân mình.
 
 2. Token
 
-Trong khi
+Sự tồn tại của Ethereum và sự bắt đầu của thế hệ Blockhain thứ 2 là khởi đầu sự tồn tại của Token. Token là những cryptocurrency không có một chain độc lập, tồn tại trên một chain khác và sử dụng nhằm giải quyết những bài toán khác nhau trên thế giới. 
+
+Sự tồn tại của Token dẫn đến sự tồn tại của các hình thức gọi vốn ICO, IDO, ... Hỗ trợ rất nhiều trong sự tiến bộ của thế giới Blockchain hiện nay.
+
+Những đồng Token máu mặt trên thị trường Crypto thì ta có thể nói đến các cái tên: LINK, USDT, UNI,...
+
 
 3. Sự đa dạng trong hệ sinh thái
 
