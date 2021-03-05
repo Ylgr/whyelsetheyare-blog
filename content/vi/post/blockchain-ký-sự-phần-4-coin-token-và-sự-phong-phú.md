@@ -28,14 +28,25 @@ Sự tồn tại của Token dẫn đến sự tồn tại của các hình th�
 Những đồng Token máu mặt trên thị trường Crypto thì ta có thể nói đến các cái tên: LINK, USDT, UNI,...
 
 
-3. Sự đa dạng trong hệ sinh thái
+3. Lý do tồn tại và hoạt động
 
 3.1. Thế hệ đầu
 
+Với sự tồn tại của Bitcoin và bản cáo bạch khai sinh ra Blockchain của Satoshi Nakamoto, thế hệ đầu tiên của Blockchain xuất hiện với những cái tên: Bitcoin, Litecoin, Bitcoin Cash,...
+
+Thế hệ đầu tiên tồn tại với mục đích chính là lưu trữ giá trị tài sản tương tự như vàng, đất.
+
+Sử dụng hình thức hoạt động của transaction là UTXO và thuật toán đồng thuận Proof Of Work, thế hệ Crypto đầu tiên đóng tốt vai trò tiên phong của mình về tư tưởng của phi tập trung khiến người dùng ý thức được sự sở hữu thật sự của mình với một loại tài sản.
+
 3.2. Dạng Ethereum
+
+Một nhân vật lịch sử có tên 
 
 3.3. Dạng Tendermint
 
+
 3.4. Dạng Tangle
 
+
 3.5. Dạng khác
+
