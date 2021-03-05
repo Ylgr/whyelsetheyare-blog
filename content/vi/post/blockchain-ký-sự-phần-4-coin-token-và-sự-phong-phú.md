@@ -17,6 +17,8 @@ Do sự đa dạng của giới Crypto, coin cũng có nhiều dạng hoạt đ�
 * Với Ethereum chain, ETH cũng giữ vai trò làm phí giao dịch. Vì tính chất hỗ trợ Smart Contract nên ETH cũng đóng vai trò làm phí cho các hoạt động này như deploy smart contract, triggger function thay đổi state của smart contract và staking. Mạng ETH đóng vai trò quan trọng mở lên kỷ nguyên của token và các hoạt động gọi vốn của nhiều cryptocurrency khác. Trong giới crypto, ETH được ví như "dầu" kỹ thuật số.
 * EOS chain, theo một khía cạnh khác hướng tới chủ chương không phí giao dịch. EOS trong network đóng vai trò làm phí khởi tạo account, chạy smart contract và staking. Trong mô hình này staking đóng vai trò quan trọng nhất vì nó sẽ giúp user sở hữu bandwitch sử dụng làm giới hạn giao dịch của mỗi user hay Ram và CPU hỗ trợ hoạt động cũng như vận hành của Smart Contract. Từng tự xưng là Ethereum killer, chúng ta vẫn cần thời gian để EOS chứng minh bản thân mình.
 
+  ![](https://s3-ap-southeast-1.amazonaws.com/cs-public-uploads-prod/c66e3a95-348b-485d-a6d8-2ecad33211db)
+
 2. Token
 
 Sự tồn tại của Ethereum và sự bắt đầu của thế hệ Blockhain thứ 2 là khởi đầu sự tồn tại của Token. Token là những cryptocurrency không có một chain độc lập, tồn tại trên một chain khác và sử dụng nhằm giải quyết những bài toán khác nhau trên thế giới. 
@@ -29,6 +31,8 @@ Những đồng Token máu mặt trên thị trường Crypto thì ta có thể 
 
 3.1. Thế hệ đầu
 
+![](https://miro.medium.com/max/2800/0*YV2B7aEwobCwQJ3T.jpg)
+
 Với sự tồn tại của Bitcoin và bản cáo bạch khai sinh ra Blockchain của Satoshi Nakamoto, thế hệ đầu tiên của Blockchain xuất hiện với những cái tên: Bitcoin, Litecoin, Bitcoin Cash,...
 
 Thế hệ đầu tiên tồn tại với mục đích chính là lưu trữ giá trị tài sản tương tự như vàng, đất.
@@ -37,12 +41,16 @@ Sử dụng hình thức hoạt động của transaction là UTXO và thuật t
 
 3.2. Dạng Ethereum
 
+![](https://miro.medium.com/max/2410/1*xIzdc_FVszgB3cCaqMd5ZQ.png)
+
 Một nhân vật lịch sử có tên Vitalik Buterin sau khi thất bại trong việc thuyết phục cồng đồng Bitcoin đưa Blockchain và nghiệp vụ business. Anh ta, cùng những Ethereum Founder khác đã phát triển ra Ethereum.
 Ethereum có sự tiến bộ so với thế hệ đầu là sử dụng máy ảo EVM cho phép build code Solidity để qua đó người dùng sẽ gắn nghiệp vụ của mình vào Blockchain qua Smart Contract và theo dõi chúng qua Blockchain.
 
 Blockchain nổi bật: Ethereum, Tomochain, Ethereum Clasic, ...
 
 3.3. Dạng Tendermint
+
+![](https://tendermint.com/og-image.png)
 
 Ở thế hệ Blockchain thứ 3, nhiều ý tưởng khác nhau được triển khai nhằm giải quyết tính mở rộng của Blockchain. Đáng chú ý trong đó có tendermint giải quyết bài toán giao tiếp giữa nhiều Blockchain khác nhau bằng cách xây dựng lên một engine gọi là Tendermint engine giúp các tổ chức, công ty khác có thể sử dụng để tạo ra Blockchain riêng của mình.
 
@@ -51,6 +59,8 @@ Blockchain nổi bật: Ethereum, Tomochain, Ethereum Clasic, ...
 Blockchain nổi bật: Cosmos, Binance Chain, ...
 
 3.4. Dạng Tangle
+
+![](http://blog.iota.org/content/images/2020/12/1-FT_UG7KCcvpnZx0K_WeukA.jpeg)
 
 Một gương mặt đáng chú ý của Blockchain thế hệ thứ 3 là IOTA, xử lý vấn đề phí giao dịch theo hướng xây dựng network không có miner. Để thực hiện giao dịch, user buộc phải verify 2 giao dịch khác để có thể submit giao dịch lên network.
 
