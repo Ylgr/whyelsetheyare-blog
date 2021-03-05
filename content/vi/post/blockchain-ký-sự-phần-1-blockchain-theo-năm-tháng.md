@@ -1,9 +1,9 @@
 ---
 title: "Blockchain ký sự - Phần 1: Blockchain theo năm tháng"
 date: 2021-02-03T09:59:20.586Z
+toc: true
 description: Hiểu đúng trước khi hành động
 featured_image: /images/ebefzbywwaadrkh.jpg
-toc: true
 tags:
   - blockchain
   - tổng quan
@@ -13,8 +13,6 @@ tags:
 ## 1.1. Nơi câu chuyện bắt đầu
 
   Năm 2007-2008, bong bóng bất động sản vỡ nợ, nhà đất mất giá trầm trọng. Tại thời điểm đó số tiền bỏ ra để mua nhà nhiều nơi còn rẻ hơn số tiền bỏ ra để thuê chúng. Trong bối cảnh đó, hàng loạt ngân hàng cùng hàng vạn người trong tình trạng lung lay vì trước đó là cơn sốt bất động sản, giá nhà đất cao chót vót nên đã trở lên tham lam ôm một đống để rồi bây giờ nhìn vào thì khoản tài sản đó giờ trở lên thật rẻ mạc. Và rồi hàng loạt ngân hàng, doanh nghiệp tuyên bố phá sản dẫn đến người lao động mất việc làm, tiền bạc trở lên khan hiếm và quý báu.
-
-  
 
 ![Bong bóng nhà đất](/images/ewscripps.brightspotcdn.com.jpg "Bong bóng nhà đất")
 
@@ -64,7 +62,7 @@ tags:
 
 \- Cải thiện thuật toán đồng thuận để giảm sự tiêu hao năng lượng mà vẫn giữ được sự an toàn trong mạng lưới với các thuật toán: Proof of Stake, Delegrated Proof of Stake, Byzantine Fault Tolerance, ...)
 
-\- Directed Acyclic Graphs (đồ thị có hướng - GAPs): Giải quyết bài toán chi phí giao dịch và sức mạnh tính toán bằng việc tự sử dụng nguồn tài nguyên có sẵn của người dùng (hoặc của người được chỉ định trong mạng lưới) để đạt thời gian giao dịch nhanh chóng với chi phí gần như bằng không (NANO, IOTA).
+\- Directed Acyclic Graphs (đồ thị có hướng không chu trình - GAPs): Giải quyết bài toán chi phí giao dịch và sức mạnh tính toán bằng việc tự sử dụng nguồn tài nguyên có sẵn của người dùng (hoặc của người được chỉ định trong mạng lưới) để đạt thời gian giao dịch nhanh chóng với chi phí gần như bằng không (NANO, IOTA).
 
 # 3. Câu chuyện còn dang dở
 
