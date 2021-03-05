@@ -13,11 +13,9 @@ Coin là thuật ngữ chỉ chung của nhóm Cryptocurrency sở hữu chain r
 
 Do sự đa dạng của giới Crypto, coin cũng có nhiều dạng hoạt động khác nhau trong nghiệp vụ tương ứng với chain của riêng nó:
 
-- Trong Bitcoin chain, BTC đóng vai trò làm phí giao dịch, phần thưởng từ mining. Là vua của thị trường Crypto nên chắc cũng không cần bàn bạc nhiều về giá trị của BTC trên thị trường. Mọi người thường có định nghĩa BTC là "vàng" kỹ thuật số.
-
-- Với Ethereum chain, ETH cũng giữ vai trò làm phí giao dịch. Vì tính chất hỗ trợ Smart Contract nên ETH cũng đóng vai trò làm phí cho các hoạt động này như deploy smart contract, triggger function thay đổi state của smart contract và staking. Mạng ETH đóng vai trò quan trọng mở lên kỷ nguyên của token và các hoạt động gọi vốn của nhiều cryptocurrency khác. Trong giới crypto, ETH được ví như "dầu" kỹ thuật số.
-
-- EOS chain, theo một khía cạnh khác hướng tới chủ chương không phí giao dịch. EOS trong network đóng vai trò làm phí khởi tạo account, chạy smart contract và staking. Trong mô hình này staking đóng vai trò quan trọng nhất vì nó sẽ giúp user sở hữu bandwitch sử dụng làm giới hạn giao dịch của mỗi user hay Ram và CPU hỗ trợ hoạt động cũng như vận hành của Smart Contract. Từng tự xưng là Ethereum killer, chúng ta vẫn cần thời gian để EOS chứng minh bản thân mình.
+* Trong Bitcoin chain, BTC đóng vai trò làm phí giao dịch, phần thưởng từ mining. Là vua của thị trường Crypto nên chắc cũng không cần bàn bạc nhiều về giá trị của BTC trên thị trường. Mọi người thường có định nghĩa BTC là "vàng" kỹ thuật số.
+* Với Ethereum chain, ETH cũng giữ vai trò làm phí giao dịch. Vì tính chất hỗ trợ Smart Contract nên ETH cũng đóng vai trò làm phí cho các hoạt động này như deploy smart contract, triggger function thay đổi state của smart contract và staking. Mạng ETH đóng vai trò quan trọng mở lên kỷ nguyên của token và các hoạt động gọi vốn của nhiều cryptocurrency khác. Trong giới crypto, ETH được ví như "dầu" kỹ thuật số.
+* EOS chain, theo một khía cạnh khác hướng tới chủ chương không phí giao dịch. EOS trong network đóng vai trò làm phí khởi tạo account, chạy smart contract và staking. Trong mô hình này staking đóng vai trò quan trọng nhất vì nó sẽ giúp user sở hữu bandwitch sử dụng làm giới hạn giao dịch của mỗi user hay Ram và CPU hỗ trợ hoạt động cũng như vận hành của Smart Contract. Từng tự xưng là Ethereum killer, chúng ta vẫn cần thời gian để EOS chứng minh bản thân mình.
 
 2. Token
 
@@ -26,7 +24,6 @@ Sự tồn tại của Ethereum và sự bắt đầu của thế hệ Blockhain
 Sự tồn tại của Token dẫn đến sự tồn tại của các hình thức gọi vốn ICO, IDO, ... Hỗ trợ rất nhiều trong sự tiến bộ của thế giới Blockchain hiện nay.
 
 Những đồng Token máu mặt trên thị trường Crypto thì ta có thể nói đến các cái tên: LINK, USDT, UNI,...
-
 
 3. Lý do tồn tại và hoạt động
 
@@ -55,7 +52,10 @@ Blockchain nổi bật: Cosmos, Binance Chain, ...
 
 3.4. Dạng Tangle
 
+Một gương mặt đáng chú ý của Blockchain thế hệ thứ 3 là IOTA, xử lý vấn đề phí giao dịch theo hướng xây dựng network không có miner. Để thực hiện giao dịch, user buộc phải verify 2 giao dịch khác để có thể submit giao dịch lên network.
 
+Cái tên IOTA không phải là tình cờ, mục đích chính của phương thức Tangle là ứng dụng Blockchain vào bài toán dữ liệu Internet of Thing. Dữ liệu có thể verify ngoại tuyến, tiếp kiện thời gian, năng lượng và không phí là điểm cộng lớn cho bài toán này.
 
-3.5. Dạng khác
+Ngoài cái tên IOTA, chúng ta còn có NANO nhưng thay vì verify giao dịch khác, user phải tự mine để tìm hash khóa giao dịch của mình.
 
+Và còn nhiều cấu trúc Blockchain thú vị khác chưa được đề cập đến.
