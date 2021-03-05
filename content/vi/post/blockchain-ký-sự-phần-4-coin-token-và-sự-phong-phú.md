@@ -40,12 +40,21 @@ Sử dụng hình thức hoạt động của transaction là UTXO và thuật t
 
 3.2. Dạng Ethereum
 
-Một nhân vật lịch sử có tên 
+Một nhân vật lịch sử có tên Vitalik Buterin sau khi thất bại trong việc thuyết phục cồng đồng Bitcoin đưa Blockchain và nghiệp vụ business. Anh ta, cùng những Ethereum Founder khác đã phát triển ra Ethereum.
+Ethereum có sự tiến bộ so với thế hệ đầu là sử dụng máy ảo EVM cho phép build code Solidity để qua đó người dùng sẽ gắn nghiệp vụ của mình vào Blockchain qua Smart Contract và theo dõi chúng qua Blockchain.
+
+Blockchain nổi bật: Ethereum, Tomochain, Ethereum Clasic, ...
 
 3.3. Dạng Tendermint
 
+Ở thế hệ Blockchain thứ 3, nhiều ý tưởng khác nhau được triển khai nhằm giải quyết tính mở rộng của Blockchain. Đáng chú ý trong đó có tendermint giải quyết bài toán giao tiếp giữa nhiều Blockchain khác nhau bằng cách xây dựng lên một engine gọi là Tendermint engine giúp các tổ chức, công ty khác có thể sử dụng để tạo ra Blockchain riêng của mình.
+
+Điều đáng chú ý ở Tendermint là một hệ sinh thái Network of Blockchain, mỗi Smart Contract không được coi là một runtime binary hoạt động trên mạng lưới nữa mà là một Blockchain độc lập.
+
+Blockchain nổi bật: Cosmos, Binance Chain, ...
 
 3.4. Dạng Tangle
+
 
 
 3.5. Dạng khác
