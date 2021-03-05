@@ -7,7 +7,7 @@ tags:
   - blockchain
   - crytocurrency
 ---
-1. Coin
+# 1. Coin
 
 Coin là thuật ngữ chỉ chung của nhóm Cryptocurrency sở hữu chain riêng của mình (VD: BTC, ETH, LTC). Coin trong cryptocurrency đóng vai trò chính trong việc khuyến khích người dùng tham gia network, sử dụng làm phí giao dịch hay lưu trữ giá trị tài sản.
 
@@ -19,7 +19,7 @@ Do sự đa dạng của giới Crypto, coin cũng có nhiều dạng hoạt đ�
 
   ![](https://s3-ap-southeast-1.amazonaws.com/cs-public-uploads-prod/c66e3a95-348b-485d-a6d8-2ecad33211db)
 
-2. Token
+# 2. Token
 
 Sự tồn tại của Ethereum và sự bắt đầu của thế hệ Blockhain thứ 2 là khởi đầu sự tồn tại của Token. Token là những cryptocurrency không có một chain độc lập, tồn tại trên một chain khác và sử dụng nhằm giải quyết những bài toán khác nhau trên thế giới. 
 
@@ -27,9 +27,9 @@ Sự tồn tại của Token dẫn đến sự tồn tại của các hình th�
 
 Những đồng Token máu mặt trên thị trường Crypto thì ta có thể nói đến các cái tên: LINK, USDT, UNI,...
 
-3. Lý do tồn tại và hoạt động
+# 3. Lý do tồn tại và hoạt động
 
-3.1. Thế hệ đầu
+## 3.1. Thế hệ đầu
 
 ![](https://miro.medium.com/max/2800/0*YV2B7aEwobCwQJ3T.jpg)
 
@@ -39,7 +39,7 @@ Thế hệ đầu tiên tồn tại với mục đích chính là lưu trữ gi�
 
 Sử dụng hình thức hoạt động của transaction là UTXO và thuật toán đồng thuận Proof Of Work, thế hệ Crypto đầu tiên đóng tốt vai trò tiên phong của mình về tư tưởng của phi tập trung khiến người dùng ý thức được sự sở hữu thật sự của mình với một loại tài sản.
 
-3.2. Dạng Ethereum
+## 3.2. Dạng Ethereum
 
 ![](https://miro.medium.com/max/2410/1*xIzdc_FVszgB3cCaqMd5ZQ.png)
 
@@ -48,7 +48,7 @@ Ethereum có sự tiến bộ so với thế hệ đầu là sử dụng máy �
 
 Blockchain nổi bật: Ethereum, Tomochain, Ethereum Clasic, ...
 
-3.3. Dạng Tendermint
+## 3.3. Dạng Tendermint
 
 ![](https://tendermint.com/og-image.png)
 
@@ -58,7 +58,7 @@ Blockchain nổi bật: Ethereum, Tomochain, Ethereum Clasic, ...
 
 Blockchain nổi bật: Cosmos, Binance Chain, ...
 
-3.4. Dạng Tangle
+## 3.4. Dạng Tangle
 
 ![](http://blog.iota.org/content/images/2020/12/1-FT_UG7KCcvpnZx0K_WeukA.jpeg)
 
