@@ -26,7 +26,11 @@ Tư tưởng của Wabi-sabi tổng kết lại là việc thừa nhận 3 tư t
 
 Ngày nay đặc biệt là phương Tây đề bị chi phối bởi chủ nghĩa hoàn hảo: "Nếu thân hình không phù hợp với quan điểm vẻ đẹp, ta sẽ chán ghét bản thân mình." Ở trong hoàn cảnh này Wabi-sabi sẽ giúp chúng ta tự mình nhận thức lại bản thân quan một lăng kính rộng mở để ta chối bỏ việc thay đổi chủ nghĩa hoàn hảo thay vào đó tập trung vào vẻ đẹp đẹp và sức khỏe của bản thân mình.
 
-2. Trân trọng những gì không hoàn hảo
+2. Hãy trân trọng
+
+Bản thân chúng ta, ít nhiều cũng có những điểm không thích về bản thân mà ta có thể thay đổi hoặc không thể thay đổi. Là một người hướng nội, bản thân hay cảm thấy hổ thẹn vì khó thích ứng với môi trường xung quanh, hòa hợp với mọi người. Khi đổi góc nhìn thì tính hướng nội lại là giúp mình có khả năng tập trung và nghiêm túc với cuộc đời chính mình hơn từ đó tự mình gỡ được những gánh nặng cuộc đời và tự do hơn.
+
+"Hãy tự hỏi: mình tìm được vẻ đẹp gì
 
 3. Tận hưởng quá trình
 
