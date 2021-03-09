@@ -30,7 +30,7 @@ Ngày nay đặc biệt là phương Tây đề bị chi phối bởi chủ ngh�
 
 Bản thân chúng ta, ít nhiều cũng có những điểm không thích về bản thân mà ta có thể thay đổi hoặc không thể thay đổi. Là một người hướng nội, bản thân hay cảm thấy hổ thẹn vì khó thích ứng với môi trường xung quanh, hòa hợp với mọi người. Khi đổi góc nhìn thì tính hướng nội lại là giúp mình có khả năng tập trung và nghiêm túc với cuộc đời chính mình hơn từ đó tự mình gỡ được những gánh nặng cuộc đời và tự do hơn.
 
-"Hãy tự hỏi: mình tìm được vẻ đẹp gì
+"Hãy tự hỏi: mình tìm được vẻ đẹp gì trong những khuyết điểm của bản thân? Mình có thể chấp nhận nó không?"
 
 3. Tận hưởng quá trình
 
