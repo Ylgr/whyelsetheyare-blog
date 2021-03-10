@@ -30,9 +30,19 @@ Ngày nay đặc biệt là phương Tây đề bị chi phối bởi chủ ngh�
 
 Bản thân chúng ta, ít nhiều cũng có những điểm không thích về bản thân mà ta có thể thay đổi hoặc không thể thay đổi. Là một người hướng nội, bản thân hay cảm thấy hổ thẹn vì khó thích ứng với môi trường xung quanh, hòa hợp với mọi người. Khi đổi góc nhìn thì tính hướng nội lại là giúp mình có khả năng tập trung và nghiêm túc với cuộc đời chính mình hơn từ đó tự mình gỡ được những gánh nặng cuộc đời và tự do hơn.
 
-"Hãy tự hỏi: mình tìm được vẻ đẹp gì trong những khuyết điểm của bản thân? Mình có thể chấp nhận nó không?"
+"Hãy tự hỏi: mình tìm được vẻ đẹp gì trong những khuyết điểm của bản thân? Mình có thể chấp nhận nó không?" - Arielle Ford trong Wabi-sabi Love.
 
-3. Tận hưởng quá trình
+Hãy trân trọng những điểm yếu của mình. Việc nhìn nhận lại chúng không đồng nghĩa với việc chối bỏ chuẩn mực cá nhân mà là học cách yêu thương con người thật sự của mình.
 
-4. Chấp nhận thay đổi
+3. Chấp nhận sự thật và sự thay đổi
+
+"Trong tự nhiên, mọi thứ đều vận động, suy tàn rồi cuối cùng tiêu vong. Và chúng ta không nằm ngoài quá trình đó. Nó thật sự đang diễn ra." - Tony Burris.
+
+"Khi chấp nhận mọi thứ như nó vốn dĩ, bạn sẽ không phán xét. Bạn sẽ không nói rằng mình nên giảm cân, nên tăng cân, không nên có nếp nhăn, mà thay vào đó sẽ bạn chấp nhận những điều đang diễn ra. Nỗi đau khổ chỉ tồn tại khi bạn ước mình phải khác đi." - Lawrence.
+
+"Trẻ đẹp là lẽ tự nhiên, nhưng đẹp lão lại là một nghệ thuật" - Eleanor Roosevelt.
+
+Jenni Rhodes, người phụ nữ ở tuổi 81 đã trở thành gương mặt đại diện của một nhãn hàng thời trang Vielma. Những nết nhăn tự nhiên của bà thể hiện cho một đời sống phong phú. Nhà thiết kế Gabriel Vielma đã giải thích lựa chọn của mình: "Thế giới tồn tại nhiều vẻ đẹp khác nhau".
+
+Và triết lý Wabi-sabi đã giúp chúng ta nhận ra, niềm tin về một tiêu chuẩn thực ra chỉ là một lựa chọn.
 
