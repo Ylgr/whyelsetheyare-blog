@@ -1,14 +1,16 @@
 ---
 title: "Văn hóa Nhật Bản: Triết lý Wabi-Sabi - Vẻ đẹp của sự không hoàn hảo"
-date: 2021-03-08T10:48:15.329Z
+date: 2021-03-10T10:48:15.329Z
 toc: true
-featured_image: /images/beyond_dreams_by_ellysiumn_ddialug-pre.jpeg
+featured_image: /images/wabi-sabi.png
 ---
 # 1. Tư tưởng hình thành
 
 Khi đi vào truyền thống văn hóa Nhật bản, chúng ta sẽ bắt gặp rất nhiều những nét đẹp nghệ thuật trong đó. Thuật ngữ Wabi-Sabi mà chúng ta nói đến bắn nguồn từ nghệ thuật trà đạo.
 
 Một tách trà tinh xảo đã được làm ra, dù bị nứt, mẻ trong quá trình sử dụng vẫn được những người thưởng trà yêu thích. Điều này đã nhắc nhở con người rằng không có điều gì là vĩnh cửu, hãy trở lên thoải mái thay vì cố chối bỏ nó.
+
+![](https://nickiedwards.files.wordpress.com/2013/06/kintsugi-460x460.jpg)
 
 Khi bước sang quan điểm phương Tây (mà khởi xướng từ Hy Lạp cổ), vẻ đẹp phải được bắt nguồn từ sự hoàn hảo không tỳ vết. Điều này khiến những người ở đây chối bỏ những dấu hiệu của sự lão hóa để rồi cảm thấy đau khổ vì nó.
 
@@ -26,7 +28,7 @@ Ngày nay đặc biệt là phương Tây đề bị chi phối bởi chủ ngh�
 
 # 2. Hãy trân trọng
 
-
+![](https://resilienceedge.com/wp-content/uploads/2016/08/The-Success-Perspective-The-Resilience-Edge-scaled.jpg)
 
 Bản thân chúng ta, ít nhiều cũng có những điểm không thích về bản thân mà ta có thể thay đổi hoặc không thể thay đổi. Là một người hướng nội, bản thân hay cảm thấy hổ thẹn vì khó thích ứng với môi trường xung quanh, hòa hợp với mọi người. Khi đổi góc nhìn thì tính hướng nội lại là giúp mình có khả năng tập trung và nghiêm túc với cuộc đời chính mình hơn từ đó tự mình gỡ được những gánh nặng cuộc đời và tự do hơn.
 
@@ -40,9 +42,9 @@ Hãy trân trọng những điểm yếu của mình. Việc nhìn nhận lại 
 
 "Khi chấp nhận mọi thứ như nó vốn dĩ, bạn sẽ không phán xét. Bạn sẽ không nói rằng mình nên giảm cân, nên tăng cân, không nên có nếp nhăn, mà thay vào đó sẽ bạn chấp nhận những điều đang diễn ra. Nỗi đau khổ chỉ tồn tại khi bạn ước mình phải khác đi." - Lawrence.
 
-
-
 "Trẻ đẹp là lẽ tự nhiên, nhưng đẹp lão lại là một nghệ thuật" - Eleanor Roosevelt.
+
+![](https://i.huffpost.com/gen/1241184/thumbs/o-VIELMA-570.jpg?3)
 
 Jenni Rhodes, người phụ nữ ở tuổi 81 đã trở thành gương mặt đại diện của một nhãn hàng thời trang Vielma. Những nết nhăn tự nhiên của bà thể hiện cho một đời sống phong phú. Nhà thiết kế Gabriel Vielma đã giải thích lựa chọn của mình: "Thế giới tồn tại nhiều vẻ đẹp khác nhau".
 
